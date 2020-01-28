@@ -28,9 +28,9 @@ WebUI.click(findTestObject('main_page/close_popup'))
 
 WebUI.click(findTestObject('main_page/button_Masuk  Daftar'))
 
-WebUI.setText(findTestObject('main_page/input_Email'), 'herkanus.f.amisi@alfadigital.id')
+WebUI.setText(findTestObject('main_page/input_Email'), 'your-email')
 
-WebUI.setText(findTestObject('main_page/input_password'), 'AMISI672014224')
+WebUI.setText(findTestObject('main_page/input_password'), 'your-password')
 
 WebUI.click(findTestObject('main_page/btn-login Masuk'))
 
