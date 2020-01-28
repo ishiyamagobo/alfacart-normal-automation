@@ -55,3 +55,5 @@ WebUI.click(findTestObject('apg_page/bank_transfer'))
 WebUI.click(findTestObject('apg_page/button_BAYAR'))
 
 
+JEMBUT`
+
